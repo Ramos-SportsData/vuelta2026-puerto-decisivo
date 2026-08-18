@@ -1,4 +1,5 @@
 # Vuelta 2026 — ¿Dónde se decide la general?
+![Ranking de etapas](ranking_etapas.png)
 **Nivel:** estudiante universitario, primer proyecto de análisis de datos, hecho antes de
 empezar la carrera de Ciencia de Datos.
 **Pregunta:** combinando categoría de puerto, dureza previa y cercanía a meta, ¿qué etapa
@@ -23,4 +24,4 @@ Dinámica de carrera desinhibida: Si la clasificación general llega apretada, e
 Nota metodológica: Este análisis surge de un índice de elaboración propia que pondera desnivel acumulado, dureza de los puertos previos, pendiente media del puerto final y momento en el calendario. No es un modelo predictivo validado estadísticamente, sino una herramienta de análisis táctico. La carretera dictará sentencia el 12 de septiembre de 2026.
 *Nota: el índice usa pesos elegidos por mí, no un modelo estadístico validado — es un
 ejercicio de análisis, no una predicción profesional.*
-![Ranking de etapas](ranking_etapas.png)
+
