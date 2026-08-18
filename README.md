@@ -1,9 +1,9 @@
 # Vuelta 2026 — ¿Dónde se decide la general?
-![Ranking de etapas](ranking_etapas.png)
 **Nivel:** estudiante universitario, primer proyecto de análisis de datos, hecho antes de
 empezar la carrera de Ciencia de Datos.
 **Pregunta:** combinando categoría de puerto, dureza previa y cercanía a meta, ¿qué etapa
 de montaña tiene más papeletas para decidir la Vuelta 2026?
+![Ranking de etapas](ranking_etapas.png)
 ## Datos
 51 puertos de montaña con kilómetro oficial de paso y categoría, extraídos de la ficha
 técnica publicada por la organización.
